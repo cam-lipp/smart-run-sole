@@ -1,0 +1,2 @@
+source_file,detector_method,num_steps,mean_cadence_spm,std_cadence_spm,median_peak_V,baseline_peak_V,median_wear_index,wear_index_last_min
+Smart_Run_Sole_Data1.xlsx,comparator,75,149.99989689523244,0.049902879485607114,3.099998,3.099998,1.0,1.0
